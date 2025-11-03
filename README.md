@@ -1,5 +1,5 @@
 # 💻 OS-Lab (ENCS351)
-#1 Linux Process Management 
+# 1. Linux Process Management 
 
 This repository contains Python programs implementing core **Linux Process Management** concepts using the **`os`** and **`subprocess`** modules.
 
