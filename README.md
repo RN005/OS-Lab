@@ -13,7 +13,7 @@ This repository contains Python programs implementing core **Linux Process Manag
 | **Task 4** | **`/proc` Inspection** | `/proc` Filesystem | Read and display live process details (Name, State, Executable, FDs) by parsing the Linux **`/proc`** filesystem. |
 | **Task 5** | **Process Prioritization** | `nice()` Value | Create CPU-intensive children and apply different **`os.nice()`** values to observe the scheduler's impact on execution time. |
 
-# 💻 OS Process Simulation: Lab Assignment 2
+# 💻 Process Simulation
 
 This project is a Python-based simulation of a simplified **Operating System Process Lifecycle**, designed for the **Operating Systems Lab Assignment 2**.  
 It demonstrates how an OS manages process creation, execution, and termination using Python’s built-in multiprocessing capabilities.
