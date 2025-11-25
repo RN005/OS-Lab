@@ -48,7 +48,7 @@ It demonstrates how an OS manages process creation, execution, and termination u
   - Process name and PID
 - Mimics **OS kernel-level logging** for educational purposes.
 
-# 💾 Operating Systems Lab 3: Memory and File Allocation Strategies
+# 💾 Memory and File Allocation Strategies
 
 This Jupyter Notebook simulates essential memory management and file allocation techniques used in Operating Systems using Python.
 
@@ -106,7 +106,7 @@ This Jupyter Notebook simulates essential memory management and file allocation 
 - **Category:** Operating Systems Lab
 - **Topics:** Memory allocation, file systems, scheduling
 
-# 💻 Operating Systems Lab 4: Process Management and CPU Scheduling
+# 💻 Process Management and CPU Scheduling
 
 This Jupyter Notebook contains Python-based simulations demonstrating core Operating Systems concepts such as process management, inter-process communication (IPC), virtual machine detection, and CPU scheduling.
 
